@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D724CE842A400529005E5A28 /* Pie.swift in Sources */ = {isa = PBXBuildFile; fileRef = D724CE832A400529005E5A28 /* Pie.swift */; };
 		D783A88E2A3C0FBF001315EB /* MemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = D783A88D2A3C0FBF001315EB /* MemoryGame.swift */; };
 		D783A8902A3C1114001315EB /* EmojiMemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = D783A88F2A3C1114001315EB /* EmojiMemoryGame.swift */; };
 		D7EDD9F62A33ABB400105D5D /* MemorizeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7EDD9F52A33ABB400105D5D /* MemorizeApp.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D724CE832A400529005E5A28 /* Pie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pie.swift; sourceTree = "<group>"; };
 		D783A88D2A3C0FBF001315EB /* MemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MemoryGame.swift; path = "Preview Content/MemoryGame.swift"; sourceTree = "<group>"; };
 		D783A88F2A3C1114001315EB /* EmojiMemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiMemoryGame.swift; sourceTree = "<group>"; };
 		D7EDD9F22A33ABB400105D5D /* Memorize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Memorize.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -39,6 +41,7 @@
 		D7EDD9E92A33ABB400105D5D = {
 			isa = PBXGroup;
 			children = (
+				D724CE832A400529005E5A28 /* Pie.swift */,
 				D7EDD9F42A33ABB400105D5D /* Memorize */,
 				D7EDD9F32A33ABB400105D5D /* Products */,
 			);
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D724CE842A400529005E5A28 /* Pie.swift in Sources */,
 				D783A88E2A3C0FBF001315EB /* MemoryGame.swift in Sources */,
 				D7EDD9F82A33ABB400105D5D /* EmojiMemoryGameView.swift in Sources */,
 				D7EDD9F62A33ABB400105D5D /* MemorizeApp.swift in Sources */,
